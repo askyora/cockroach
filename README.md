@@ -1,2 +1,2 @@
 # cockroach
-Project of implementing and and executing automated survival modes plans in a chaotic situations.
+Project to program plan implementing and executing automated survival programs in a chaotic situation.
